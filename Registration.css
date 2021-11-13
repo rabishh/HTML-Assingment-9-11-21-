@@ -1,0 +1,24 @@
+body{
+    background-color:cyan;
+}
+form{
+    text-align:center;
+}
+input{
+    margin:30px;
+}
+header{
+    text-align: center;
+    color:white;
+    background-image:linear-gradient(49deg,green,yellow,pink,rgb(161, 132, 132));
+    font-size:30px;
+}
+button{
+    font-size: large;
+    background-color:gold;
+}
+button:hover{
+    font-size:30px;
+    background-color:red;
+    color:white;
+}
